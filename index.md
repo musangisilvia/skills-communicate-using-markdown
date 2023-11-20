@@ -7,3 +7,9 @@
 
 # Adding an image
 ![Johnny Bravo](https://i.pinimg.com/736x/0a/5e/80/0a5e80c2696ffa0c07304fe22631b738.jpg)
+
+# Code blocks
+```
+while learningOpenSource():
+    keepOpenMind();
+```
